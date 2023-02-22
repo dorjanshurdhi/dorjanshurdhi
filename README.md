@@ -1,8 +1,8 @@
+<div align=center>
+
 
 ![Home Coding Sticker by HACKTIV8](https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=ecf05e47f4vby27r75cgm0uykoi4m1x23128kam12kuzdaej&rid=giphy.gif&ct=s)
 
-
-<div align=center>
 <h2>My skills</h2>
 
 
@@ -19,12 +19,8 @@
 
 <h2>My GitHub Stats</h2>
 
-You can find me here
-  [![Dorjanshurdhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorjanshurdhi&show_icons=true&theme=algolia&hide=contribs)](https://github.com/dorjanshurdhi/github-readme-stats)
+[![DorjanShurdhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorjanshurdhi&show_icons=true&theme=algolia&hide=contribs)](https://github.com/dorjanshurdhi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorjanshurdhi&layout=compact&theme=algolia)](https://github.com/dorjanshurdhi/github-readme-stats)
-
-
->
   </div>
 
 <!--
