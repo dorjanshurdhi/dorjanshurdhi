@@ -37,8 +37,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorjanshurdhi&layout=compact&theme=algolia)](https://github.com/dorjanshurdhi/github-readme-stats)
   </div>
 
-<!--
-**dorjanshurdhi/dorjanshurdhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-icons : https://github.com/Ileriayo/markdown-badges
-stats : https://github.com/anuraghazra/github-readme-stats
--->
