@@ -32,7 +32,7 @@
 
 <h2>My GitHub Stats</h2>
 
-[![DorjanShurdhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorjanshurdhi&show_icons=true&theme=algolia&hide=contribs)](https://github.com/dorjanshurdhi/github-readme-stats)
+[![DorjanShurdhi's GitHub stats](https://github-readme-stats-6m6r.vercel.app/api?username=dorjanshurdhi&show_icons=true&theme=algolia&hide=contribs)](https://github.com/dorjanshurdhi/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorjanshurdhi&layout=compact&theme=algolia)](https://github.com/dorjanshurdhi/github-readme-stats)
   </div>
