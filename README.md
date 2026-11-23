@@ -5,7 +5,7 @@
 
   <!-- Titolo dinamico (Typing SVG) -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Dorjan+Shurdhi!+%F0%9F%91%8B;DevOps+%26+Cloud+Engineer+%E2%98%81%EF%B8%8F;Automation+%26+Infrastructure+Enthusiast+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Dorjan+Shurdhi!+%F0%9F%91%8B;DevOps+%26+Cloud+Engineer+%E2%98%81%EF%B8%8F;GitOps+%26+Automation+Enthusiast+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </h1>
 
   <p>
@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me
 
 - ☁️ **DevOps & Cloud Engineer** passionate about designing, automating, and optimizing mission-critical deployments.
-- 🛠️ Focused on **Infrastructure as Code (IaC)**, container orchestration, and building reliable **CI/CD pipelines**.
+- 🛠️ Focused on **Infrastructure as Code (IaC)**, container orchestration, and building end-to-end **CI/CD & GitOps workflows**.
 - 📈 Always keeping an eye on system reliability, observability, and performance monitoring.
 - 🌱 Continuously exploring new cloud-native technologies and security best practices.
 
@@ -31,6 +31,7 @@
 
 #### ☁️ Cloud Providers & PaaS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -41,7 +42,9 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-#### 🔄 CI/CD, Build & Testing
+#### 🔄 CI/CD, GitOps & Build
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Argo CD](https://img.shields.io/badge/argo%20cd-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -71,11 +74,11 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/dorjanshurdhi/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-6m6r.vercel.app/api?username=dorjanshurdhi&show_icons=true&theme=algolia&hide=contribs" alt="DorjanShurdhi's GitHub stats" />
+  <a href="https://github.com/dorjanshurdhi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dorjanshurdhi&show_icons=true&theme=algolia&hide=contribs" alt="DorjanShurdhi's GitHub stats" />
   </a>
-  <a href="https://github.com/dorjanshurdhi/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-6m6r.vercel.app/api/top-langs/?username=dorjanshurdhi&layout=compact&theme=algolia" alt="Top Langs" />
+  <a href="https://github.com/dorjanshurdhi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorjanshurdhi&layout=compact&theme=algolia" alt="Top Langs" />
   </a>
 </div>
 
@@ -84,11 +87,7 @@
 ### 🤝 Connect with Me
 
 <div align="center">
-  <!-- Sostituisci IL_TUO_USERNAME con il tuo vero handle di LinkedIn o altri social -->
-  <a href="https://www.linkedin.com/in/IL_TUO_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/dorjanshurdhi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tua.email@esempio.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
